@@ -4,9 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - HelpObject
   - LeftHandTarget
   - RightHandTarget
   - HeadTarget
+  - FxTemporaire
+  - zomBunny
   layers:
   - Default
   - TransparentFX
@@ -24,6 +27,7 @@ TagManager:
   - 
   - 
   - 
+  - tagInvisibleToZED
   - 
   - 
   - 
@@ -37,8 +41,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
+  - arlayer
   - 
   m_SortingLayers:
   - name: Default

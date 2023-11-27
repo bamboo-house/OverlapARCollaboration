@@ -28,6 +28,7 @@ public class NetworkTransformAttacher : NetworkBehaviour
         LocalLeftHandTransform = GameObject.FindWithTag("LeftHandTarget").GetComponent<Transform>();
         LocalRightHandTransform = GameObject.FindWithTag("RightHandTarget").GetComponent<Transform>();
         Debug.Log(LocalLeftHandTransform.position);
+        Debug.Log(LocalHeadTransform.position);
 
         if (Object.HasStateAuthority)
         {
