@@ -15,5 +15,5 @@ EditorBuildSettings:
     path: Assets/Demos/Scenes/OnlyFusionScene 1.unity
     guid: 9c1fadb47d703e84dafa3ed00940270d
   m_configObjects:
-    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 8c39cdb63974884489ad30ed3bcc7d5b, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 84f0c2899ad34194d8576bacc4e98a6f, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 29fca5cc7c7b88e4f816da7c75a7ac39, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: de84b1776abad9548ae7e7033460b8f9, type: 2}
