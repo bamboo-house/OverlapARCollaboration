@@ -6,14 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Demos/Scenes/OnlyVRIK.unity
+    path: Assets/MyFolder/Scenes/OnlyVRIK.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Demos/Scenes/VRCollaboration.unity
+  - enabled: 0
+    path: Assets/MyFolder/Scenes/VRCollaboration.unity
     guid: 7f3f41f2e640a7847be023f6874a5b53
   - enabled: 0
-    path: Assets/Demos/Scenes/OnlyFusionScene 1.unity
+    path: Assets/MyFolder/Scenes/OnlyFusionScene 1.unity
     guid: 9c1fadb47d703e84dafa3ed00940270d
+  - enabled: 1
+    path: Assets/MyFolder/Scenes/ARCollaboration.unity
+    guid: 83f81672accaf4848ae59ad34516fb52
   m_configObjects:
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 29fca5cc7c7b88e4f816da7c75a7ac39, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: de84b1776abad9548ae7e7033460b8f9, type: 2}

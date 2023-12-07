@@ -1003,7 +1003,7 @@ MonoBehaviour:
   poseAction:
     actionPath: /actions/default/in/Pose
     needsReinit: 0
-  inputSource: 0
+  inputSource: 2
   origin: {fileID: 0}
   onTransformUpdated:
     m_PersistentCalls:
@@ -1132,7 +1132,7 @@ MonoBehaviour:
   poseAction:
     actionPath: /actions/default/in/Pose
     needsReinit: 0
-  inputSource: 0
+  inputSource: 1
   origin: {fileID: 0}
   onTransformUpdated:
     m_PersistentCalls:
