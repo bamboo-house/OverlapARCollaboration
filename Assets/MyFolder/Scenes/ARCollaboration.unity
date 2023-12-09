@@ -889,7 +889,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   networkRunnerPrefab: {fileID: -4526991664488843546, guid: 0fbd95e75ab1eb54aa0e304a8ca36941, type: 3}
   playerAvatarPrefab:
-    RawGuidValue: 360c41d0e833327478dcab6065aa6720
+    RawGuidValue: e4d751da49898a246b005fa9d76df400
 --- !u!4 &1686170927
 Transform:
   m_ObjectHideFlags: 0
@@ -1006,6 +1006,26 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4309805032874704, guid: d279d95477768ae49aff7234e8c13912, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114711245158774928, guid: d279d95477768ae49aff7234e8c13912, type: 3}
+      propertyPath: FPS
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 114711245158774928, guid: d279d95477768ae49aff7234e8c13912, type: 3}
+      propertyPath: bodyTrackingFoldoutOpen
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114711245158774928, guid: d279d95477768ae49aff7234e8c13912, type: 3}
+      propertyPath: isMappingFilteringEnable
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114711245158774928, guid: d279d95477768ae49aff7234e8c13912, type: 3}
+      propertyPath: spatialMappingFoldoutOpen
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114711245158774928, guid: d279d95477768ae49aff7234e8c13912, type: 3}
+      propertyPath: objectDetectionFoldoutOpen
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3004262277656742305, guid: d279d95477768ae49aff7234e8c13912, type: 3}
