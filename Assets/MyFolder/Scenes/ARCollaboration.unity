@@ -889,7 +889,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   networkRunnerPrefab: {fileID: -4526991664488843546, guid: 0fbd95e75ab1eb54aa0e304a8ca36941, type: 3}
   playerAvatarPrefab:
-    RawGuidValue: e4d751da49898a246b005fa9d76df400
+    RawGuidValue: 360c41d0e833327478dcab6065aa6720
 --- !u!4 &1686170927
 Transform:
   m_ObjectHideFlags: 0
