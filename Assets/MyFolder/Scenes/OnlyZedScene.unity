@@ -516,6 +516,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3421718287215905735, guid: 0ede54b53c7b0e94785d9cd80b7de146, type: 3}
+      propertyPath: solver.leftArm.target
+      value: 
+      objectReference: {fileID: 540279895}
+    - target: {fileID: 3421718287215905735, guid: 0ede54b53c7b0e94785d9cd80b7de146, type: 3}
+      propertyPath: solver.rightArm.target
+      value: 
+      objectReference: {fileID: 536649782}
+    - target: {fileID: 3421718287215905735, guid: 0ede54b53c7b0e94785d9cd80b7de146, type: 3}
+      propertyPath: solver.spine.headTarget
+      value: 
+      objectReference: {fileID: 1159560765}
     - target: {fileID: 4539426670426016108, guid: 0ede54b53c7b0e94785d9cd80b7de146, type: 3}
       propertyPath: m_RootOrder
       value: 3

@@ -889,7 +889,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   networkRunnerPrefab: {fileID: -4526991664488843546, guid: 0fbd95e75ab1eb54aa0e304a8ca36941, type: 3}
   playerAvatarPrefab:
-    RawGuidValue: 360c41d0e833327478dcab6065aa6720
+    RawGuidValue: 0ede54b53c7b0e94785d9cd80b7de146
 --- !u!4 &1686170927
 Transform:
   m_ObjectHideFlags: 0
@@ -1007,6 +1007,14 @@ PrefabInstance:
     - target: {fileID: 4309805032874704, guid: d279d95477768ae49aff7234e8c13912, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 20426257081025226, guid: d279d95477768ae49aff7234e8c13912, type: 3}
+      propertyPath: m_CullingMask.m_Bits
+      value: 3221225407
+      objectReference: {fileID: 0}
+    - target: {fileID: 20846656237544980, guid: d279d95477768ae49aff7234e8c13912, type: 3}
+      propertyPath: m_CullingMask.m_Bits
+      value: 3221225407
       objectReference: {fileID: 0}
     - target: {fileID: 114711245158774928, guid: d279d95477768ae49aff7234e8c13912, type: 3}
       propertyPath: FPS
