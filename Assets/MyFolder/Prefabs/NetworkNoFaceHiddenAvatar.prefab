@@ -321,7 +321,7 @@ MonoBehaviour:
       maxRootAngleMoving: 10
       maxRootAngleStanding: 90
       stepLengthMlp: 1
-      footDistance: 0.3
+      footDistance: 0.2
       stepThreshold: 0.4
       angleThreshold: 60
       comAngleMlp: 1
@@ -438,7 +438,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5022139185781785184}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.1, z: -0.14}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
