@@ -8,13 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/MyFolder/Scenes/OnlyVRIK.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/MyFolder/Scenes/VRCollaboration.unity
     guid: 7f3f41f2e640a7847be023f6874a5b53
   - enabled: 0
     path: Assets/MyFolder/Scenes/OnlyFusionScene 1.unity
     guid: 9c1fadb47d703e84dafa3ed00940270d
-  - enabled: 0
+  - enabled: 1
     path: Assets/MyFolder/Scenes/ARCollaboration.unity
     guid: 83f81672accaf4848ae59ad34516fb52
   m_configObjects:
